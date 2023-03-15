@@ -2,7 +2,6 @@ import Button from "./Button";
 import ThemeSettings from "./ThemeSettings";
 import Sidebar from "./Sidebar";
 import Navbar from "./Navbar";
-import Footer from "./Footer";
 import Cart from "./Cart";
 import Chat from "./Chat";
 import Notification from "./Notification";
@@ -19,7 +18,6 @@ export {
   ThemeSettings,
   Sidebar,
   Navbar,
-  Footer,
   Cart,
   Chat,
   Notification,
